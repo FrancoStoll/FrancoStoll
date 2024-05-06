@@ -1,4 +1,4 @@
-## Hola, me llamo Franco Stoll
+## Hola, me llamo Franco Stoll formado para trabajar como desarrolador
 
 #### Te invito a que veas mis repositorios
 
@@ -9,7 +9,7 @@
 
 &nbsp;
 
-<!-- Talking about you -->
+
 **About Me:**
 
 - Estoy aprendiendo actualmente Next.js, React, y todo el ecosistema de Node.js.
