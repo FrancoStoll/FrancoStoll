@@ -12,10 +12,10 @@
 
 **About Me:**
 
-- Estoy aprendiendo actualmente Next.js, React, y todo el ecosistema de Node.js.
+- Me desarrollo en  Next.js, React, y todo el ecosistema de Node.js.
 - También tengo conocimiento en PHP, Laravel ,Bases de datos SQL y NoSQL.
-- Estoy interesado en colaborar en cualquier proyect
-- Me encuentro en el ultimo tramo de la Tecnicatura en Programación.
+- Me resivi de Tecnico Superior en Programación
+- Estoy interesado en colaborar en cualquier proyecto
 - Puedes preguntarme sobre cualquier tema, estaré encantado de ayudar.
 ---
 <br/>
