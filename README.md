@@ -13,9 +13,8 @@
 **About Me:**
 
 - Me desarrollo en  Next.js, React, y todo el ecosistema de Node.js.
-- También tengo conocimiento en PHP, Laravel ,Bases de datos SQL y NoSQL.
-- Graduado de Tecnico Superior en Programación
-- Estoy interesado en colaborar en cualquier proyecto
+- También tengo conocimiento,Bases de datos SQL y NoSQL.
+- Estoy interesado en colaborar en cualquier proyecto.
 - Puedes preguntarme sobre cualquier tema, estaré encantado de ayudar.
 ---
 <br/>
